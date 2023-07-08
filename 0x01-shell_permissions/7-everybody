@@ -1,1 +1,2 @@
-#!/bin/bashg
+#!/bin/bash
+#chmod uog+x hello
